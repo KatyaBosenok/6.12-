@@ -1,4 +1,5 @@
 <?php
+//.gitignore
 $dbParams=require(
 	'db.php'
 );
